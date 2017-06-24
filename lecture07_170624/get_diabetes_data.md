@@ -14,3 +14,4 @@ One the data is on your machine, let's get it into Azure ML Studio:
 7. Click the encircled check mark to upload.
 8. Wait, this could take up to 1 minute.
 9. Finally, you should see the dataset (named) in the panel.
+10. Test
